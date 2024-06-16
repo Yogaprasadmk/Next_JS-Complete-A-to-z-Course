@@ -47,5 +47,5 @@ npx create-next-app@latest
 <img src="https://github.com/Yogaprasadmk/Next_JS-Complete-A-to-z-Course/assets/120255515/d3dc4766-f42e-45de-b181-d085427f861f"/>
 jsxfile:
 <img src="https://github.com/Yogaprasadmk/Next_JS-Complete-A-to-z-Course/assets/120255515/cdcaaf08-045e-4881-9aae-169dc3d6708c"/>
-globals.css
+<p>globals.css</p>
 <img src="https://github.com/Yogaprasadmk/Next_JS-Complete-A-to-z-Course/assets/120255515/9cdfd922-0960-49a8-853e-7a48c4a6ce4a"/>
