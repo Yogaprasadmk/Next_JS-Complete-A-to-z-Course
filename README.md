@@ -48,7 +48,4 @@ npx create-next-app@latest
 jsxfile:
 <img src="https://github.com/Yogaprasadmk/Next_JS-Complete-A-to-z-Course/assets/120255515/cdcaaf08-045e-4881-9aae-169dc3d6708c"/>
 globals.css
-<img src="https://github.com/Yogaprasadmk/Next_JS-Complete-A-to-z-Course/assets/120255515/9cdfd922-0960-49a8-853e-7a48c4a6ce4a">
-layout.jsx
-<img src="https://github.com/Yogaprasadmk/Next_JS-Complete-A-to-z-Course/assets/120255515/24f8e2b2-359a-40cc-8c1b-aef9fe7f00bc"/>
-<br/>
+<img src="https://github.com/Yogaprasadmk/Next_JS-Complete-A-to-z-Course/assets/120255515/9cdfd922-0960-49a8-853e-7a48c4a6ce4a"/>
